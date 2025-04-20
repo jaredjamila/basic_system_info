@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # system_info.py
 # A simple script to display basic system information
+#Used ChatGpt to assist in writing the code
 
 import platform
 import psutil
