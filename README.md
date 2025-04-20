@@ -1,2 +1,2 @@
-# basic_system_info
+# a Short python program that displays System info of the computer running it.
 Basic
